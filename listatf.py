@@ -47,7 +47,7 @@ def menu():
    *1 - Novo
    *2 - Apaga
    *3 - Lista
-   *0 - Sai
+   *0 - Sair
 """)
      return valida_faixa_inteiro("Escolha uma opção: ",0,3)
 
